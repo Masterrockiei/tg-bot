@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
-[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
-[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![Stars](https://img.shields.io/github/stars/Masterrockiei/tg-bot?style=flat-square&color=yellow)](https://github.com/Masterrockiei/tg-bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/Masterrockiei/tg-bot?style=flat-square&color=orange)](https://github.com/Masterrockiei/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/Masterrockiei/tg-bot/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Masterrockiei/tg-bot)   
+[![Contributors](https://img.shields.io/github/contributors/Masterrockiei/tg-bot?style=flat-square&color=green)](https://github.com/Masterrockiei/tg-bot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Masterrockiei/tg-bot/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/Masterrockiei.svg)](https://stars.medv.io/Masterrockiei/tg-bot)
 
 
 ## Features
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone [https//github.com/Masterrovkiei/tg-bot]
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
